@@ -1,0 +1,13 @@
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\obj\Debug\netcoreapp3.1\Pract2.csprojAssemblyReference.cache
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\obj\Debug\netcoreapp3.1\Pract2.AssemblyInfoInputs.cache
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\obj\Debug\netcoreapp3.1\Pract2.AssemblyInfo.cs
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\obj\Debug\netcoreapp3.1\Pract2.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\bin\Debug\netcoreapp3.1\Pract2.exe
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\bin\Debug\netcoreapp3.1\Pract2.deps.json
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\bin\Debug\netcoreapp3.1\Pract2.runtimeconfig.json
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\bin\Debug\netcoreapp3.1\Pract2.runtimeconfig.dev.json
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\bin\Debug\netcoreapp3.1\Pract2.dll
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\bin\Debug\netcoreapp3.1\Pract2.pdb
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\obj\Debug\netcoreapp3.1\Pract2.dll
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\obj\Debug\netcoreapp3.1\Pract2.pdb
+C:\Users\Win 8.1\Desktop\Pract2\Pract2\obj\Debug\netcoreapp3.1\Pract2.genruntimeconfig.cache
